@@ -1,4 +1,4 @@
-# Psychological Assessment using LLMs and Reddit Posts
+# Adaptive Retrieval-Augmented Generation for Psychological Assessment
 
 This project presents an approach to performing automated psychological assessments (e.g., GAD-7) using Reddit user content, embedding models, and a large language model (LLM). Reddit posts are embedded and adaptively retrieved for each diagnostic item, then passed to a prompt-driven LLM which scores user responses accordingly.
 
